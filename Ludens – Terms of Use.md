@@ -2,7 +2,7 @@
 
 Last updated: \[DATE\]
 
-These Terms are an agreement between you and \[YOUR NAME OR BUSINESS NAME\] (“we”, “us”), who operates Ludens. By creating an account or using Ludens you agree to them and to our Privacy Policy. If you do not agree, please do not use the app.
+These Terms are an agreement between you and Taj Astill (“we”, “us”), who operates Ludens. By creating an account or using Ludens you agree to them and to our Privacy Policy. If you do not agree, please do not use the app.
 
 ## 1. Who can use Ludens
 
@@ -60,7 +60,7 @@ We may update these Terms. If we make significant changes we will tell you in th
 
 ## 12. Governing law
 
-These Terms are governed by the laws of \[STATE\], Australia, and the courts of that state have jurisdiction, subject to any rights you have under the law where you live.
+These Terms are governed by the laws of New South Wales, Australia, and the courts of that state have jurisdiction, subject to any rights you have under the law where you live.
 
 ## 13. Contact
 
