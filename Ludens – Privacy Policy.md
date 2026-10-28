@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ludens Privacy Policy
+permalink: /privacy/
+---
+
 # Ludens Privacy Policy
 
 Last updated: 22/10/2026
