@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ludens Terms of Use
+permalink: /terms/
+---
+
 # Ludens Terms of Use
 
 Last updated: \[DATE\]
